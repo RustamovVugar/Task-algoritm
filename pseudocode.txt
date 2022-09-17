@@ -1,0 +1,7 @@
+input m
+   m=0 
+print neither odd nor even
+   m%2==0
+ print "even number"
+else
+    print "add number"
